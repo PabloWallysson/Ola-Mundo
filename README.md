@@ -19,9 +19,9 @@ Lista Numerada:
 
 Lista Demarcada:
 
-*Teste
-*Teste
-*Teste
+-Teste
+-Teste
+-Teste
 
 Lista de Tarefas:
 
