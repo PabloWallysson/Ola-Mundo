@@ -29,3 +29,7 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber Pagamento
+
+Num | Nome | Nota
+---|---|---
+1|Gustavo|8,5
